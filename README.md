@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md write-up for your React PlayerCard application. Feel free to customize it further based on your specific project details and requirements.
-
----
 
 # React PlayerCard App
 
